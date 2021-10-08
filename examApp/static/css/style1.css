@@ -1,0 +1,15 @@
+
+* {
+    border: 1px crimson dotted;
+    margin: 0px;
+    padding: 0px;
+}
+
+#navy{
+    justify-content: space-between;
+}
+
+nav h2{
+    font-size: 24px;
+    margin-left: 40%;
+}
